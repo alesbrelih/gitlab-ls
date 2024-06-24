@@ -20,7 +20,7 @@ anyhow = "1.0.86"
 serde = "1.0.203"
 tree-sitter = "0.22.6"
 tree-sitter-yaml = "0.6.1"
-reqwest = { version = "0.12.4", features = ["blocking"] }
+reqwest = { version = "0.12.5", features = ["blocking"] }
 regex = "1.10.5"
 serde_yaml = "0.9.34"
 crc64 = "2.0.0"
